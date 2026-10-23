@@ -1,0 +1,23 @@
+
+/* Couleur de fond et style général */
+body {
+    background-color: #f0f4f8;
+    color: #333333;
+    font-family: "Arial", sans-serif;
+    margin: 20px;
+}
+
+/* Titre principal */
+h1 {
+    color: #2563eb;
+    font-family: "Georgia", serif;
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Paragraphes */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
